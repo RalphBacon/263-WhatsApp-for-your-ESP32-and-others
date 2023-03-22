@@ -24,7 +24,7 @@ I've included some simple (albeit not secure, nor encrypted) code as an example 
 ► CallMeBot Subscription options  
 
 ### Code
-The code you will find in a separate folder above; but bear in mind the URLEncode library may have to be installed separately (especially on the Arduino IDE). Go to Sketch > Include Library > Manage Libraries and search for URLEncode library by Masayuki Sugahara. Simples.
+The code you will find in a separate folder above; but bear in mind the URLEncode library may have to be installed separately (especially on the Arduino IDE). Go to **Sketch** > **Include Library** > **Manage Libraries** and search for **URLEncode** library by **Masayuki Sugahara**. Simples.
 
 ### Other Stuff   
 ► List of all my videos
