@@ -25,3 +25,20 @@ I've included some simple (albeit not secure, nor encrypted) code as an example 
 
 ### Code
 The code you will find in a separate folder above, but bear in mind the URLEncode library may have to be installed separately (especially on the Arduino IDE). Go to Sketch > Include Library > Manage Libraries and search for URLEncode library by Masayuki Sugahara. Simples.
+
+### Other Stuff   
+► List of all my videos
+(Special thanks to Michael Kurt Vogel for compiling this)  
+http://bit.ly/YouTubeVideoList-RalphBacon  
+
+► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey
+
+My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+• https://www.youtube.com/RalphBacon  
+• https://ralphbacon.blog  
+• https://github.com/RalphBacon  
+• https://buymeacoffee.com/ralphbacon  
+\------------------------------------------------------------------
+
+My ABOUT page with email address: https://www.youtube.com/c/RalphBacon/about
