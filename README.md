@@ -27,6 +27,9 @@ I've included some simple (albeit not secure, nor encrypted) code as an example 
 The code you will find in a separate folder above; but bear in mind the URLEncode library may have to be installed separately (especially on the Arduino IDE). Go to **Sketch** > **Include Library** > **Manage Libraries** and search for **URLEncode** library by **Masayuki Sugahara**. Simples.
 
 ### Other Stuff   
+► AD-11 Advanced Solderless Breadboard (with Terminals)  
+https://bit.ly/3LUnsNJ  
+
 ► List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon  
