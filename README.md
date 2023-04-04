@@ -15,6 +15,9 @@ For businesses, or those with a more complex required, there are very affordable
 
 I've included some simple (albeit not secure, nor encrypted) code as an example but we'll update this as part of the ESP32 HTML series of videos I'm doing.  
 
+► Want to get an introductory PCB discount from PCBWay when you sign up? Follow this link:  
+https://pcbway.com/g/SaH9tF  
+
 ### Links to CallMeBot.com 
 
 ► CallMeBot: https://www.callmebot.com/blog/free-api-whatsapp-messages/  
